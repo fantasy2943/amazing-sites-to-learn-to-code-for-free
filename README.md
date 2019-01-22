@@ -2,4 +2,4 @@
 
 ### Table of content:
 
-- [freeCodeCamp] (front-end/back-end/full-stack)[https://www.freecodecamp.org/]
+- [freeCodeCamp](https://freecodecamp.org/) (front-end/back-end/full-stack)
