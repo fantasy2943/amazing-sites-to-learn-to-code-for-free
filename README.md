@@ -8,3 +8,7 @@ Just stay at home or in remote area, it doesn't matter because now we're having 
 - [Udemy](https://https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
 - [Khan Academy](https://www.khanacademy.org)
+- [LeetCode](https://leetcode.com/)
+- [Udacity](https://udacity.com/)
+- [W3School](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
