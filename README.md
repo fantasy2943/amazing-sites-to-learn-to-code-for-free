@@ -2,4 +2,9 @@
 
 ### Table of content:
 
-- [freeCodeCamp](https://freecodecamp.org/) (front-end/back-end/full-stack)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [eDX](https://https://www.edx.org/)
+- [Udemy](https://https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
+- [Khan Academy](https://www.khanacademy.org)
