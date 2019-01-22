@@ -1,4 +1,4 @@
-### On the internet now have a lot of awesome websites which are free to access, high-quality courses, high appreciated with a million of people learning to code for free. Let's take a look some of awesome sites like this including description/overview for each site:
+Just stay at home or in remote area, it doesn't matter because now we're having a lot of awesome websites which are free to access, high-quality courses, high appreciated with a million of people learning to code for free. Let's take a look some of awesome sites like this including description/overview for each site:
 
 ### Table of content:
 
