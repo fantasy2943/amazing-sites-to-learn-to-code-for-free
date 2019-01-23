@@ -12,3 +12,5 @@ Just stay at home or in remote area, it doesn't matter because now we're having 
 - [Udacity](https://udacity.com/)
 - [W3School](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
+- [Data Camp](https://datacamp.com/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm/)
