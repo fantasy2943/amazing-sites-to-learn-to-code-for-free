@@ -14,3 +14,4 @@ Just stay at home or in remote area, it doesn't matter because now we're having 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Data Camp](https://datacamp.com/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm/)
+- [TutorialsPoint](https://www.tutorialspoint.com/)
