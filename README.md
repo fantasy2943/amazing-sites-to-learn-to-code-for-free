@@ -16,3 +16,4 @@ Just stay at home or in remote area, it doesn't matter because now we're having 
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm/)
 - [TutorialsPoint](https://www.tutorialspoint.com/)
 - [SoloLearn](https://sololearn.com/)
+- [Pluralsight](https://www.pluralsight.com/) (free trial for 10 days)
