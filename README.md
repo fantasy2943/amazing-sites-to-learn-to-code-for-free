@@ -18,4 +18,5 @@ Just stay at home or in remote area, it doesn't matter because now we're having 
 - [SoloLearn](https://sololearn.com/)
 - [Pluralsight](https://www.pluralsight.com/) (free trial for 10 days)
 - [Treehouse](https://treehouse.com/) (free trial for 7 days)
-- [HackerRank](https://hackerrank.com/) (practice algorithm)
+- [HackerRank](https://hackerrank.com/) (practice algorithm for high-beginner or intermediate or above)
+- [Fratiron School](https://flatironschool.com/) (free one month if you join Github Education)
